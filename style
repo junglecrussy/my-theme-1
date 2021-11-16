@@ -1,0 +1,49 @@
+<style>
+:root{
+  --red: #a5a5a5;
+  --dark-orange: #000000;
+  --light-orange: #a5a5a5;
+  --lighter-blue: #a5a5a5;
+  --darker-blue: #000000;
+  --logo-blue: #474747;
+  --even-lighter-blue: #e0e0e0;
+  --lightest-blue: #f7f8f9;
+}
+
+body {
+  background-image: url(https://64.media.tumblr.com/f40904c96fc20e9bf5b7c263c53e2834/06ee70031c87d1b7-88/s640x960/49131d1b4cd522c5ca7f048b00af487f6af62f1c.png);
+}
+* {
+        font-family: 'Courier Prime', monospace;
+        font-varient: lowercase;
+    }
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://www.dropbox.com/s/2r8qhxobnazfa5y/unnamed.ani?dl=0), url(https://64.media.tumblr.com/0cc381bbbcae2f20d06265075bfa4b80/34aafb48fea3c89e-40/s75x75_c1/0ce7de66793e3ed3f643941bf4ce172ddfe74cba.png), auto !important;} /* End https://www.cursors-4u.com */
+
+main {
+background: #e1e1e1;
+}
+
+h4 {
+  color: black;
+}
+
+.online img {
+  filter: grayscale(100%);
+}
+
+.online {
+    color: #000000;
+}
+
+element.style {
+}
+.count {
+    color: #000000;
+}
+
+.icon, .award img {
+  filter: grayscale(100%);
+}
+
+</style>
